@@ -1,0 +1,62 @@
+[
+  {
+    "projects": [
+      {
+        "Name": "Maintenance",
+        "Description": "Maintenance work on roof",
+        "Category": "Roofing",
+        "Id": "1",
+        "Status": "Active",
+        "Value": "300"
+      },
+      {
+        "Name": "Insulation",
+        "Description": "Insulation work on roof",
+        "Category": "Roofing",
+        "Id": "2",
+        "Status": "Active",
+        "Value": "700"
+      },
+      {
+        "Name": "Shingles",
+        "Description": "Add shingles on roof",
+        "Category": "Roofing",
+        "Id": "3",
+        "Status": "Inactive",
+        "Value": "1000"
+      },
+      {
+        "Name": "Sealant",
+        "Description": "Replace Sealant",
+        "Category": "Roofing",
+        "Id": "4",
+        "Status": "Active",
+        "Value": "700"
+      },
+      {
+        "Name": "Carpentry",
+        "Description": "Wood work inside home",
+        "Category": "Construction",
+        "Id": "5",
+        "Status": "Active",
+        "Value": "500"
+      },
+      {
+        "Name": "Tiles/Flooring",
+        "Description": "Floor work placing tiles",
+        "Category": "Construction",
+        "Id": "6",
+        "Status": "Inactive",
+        "Value": "600"
+      },
+      {
+        "Name": "Plastering",
+        "Description": "Plastering walls",
+        "Category": "Construction",
+        "Id": "7",
+        "Status": "Inactive",
+        "Value": "200"
+      }
+    ]
+  }
+]
