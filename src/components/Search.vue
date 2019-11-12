@@ -63,16 +63,16 @@ export default {
   left: 50%;
   transform: translate(-50%, -50%);
   border: 1px solid #fff;
-  background-color: rgba(255, 255, 255, 0.281);
+  background-color: rgba(82, 79, 79, 0.384);
   border-radius: 5px;
   height: 30vh;
 
   .main-heading {
-    font-weight: 400;
+    font-weight: 300;
     text-align: center;
-    font-size: 5rem;
+    font-size: 7rem;
     padding-top: 2rem;
-    color: #000;
+    color: rgb(70, 123, 209);
   }
 
   .btn {
