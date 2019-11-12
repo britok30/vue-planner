@@ -80,7 +80,7 @@ export default {
   }
 
   label {
-    font-size: 1.3rem;
+    font-size: 1.6rem;
   }
 
   input,

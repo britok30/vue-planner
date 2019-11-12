@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-dark">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="/">
         <img class="nav-img" src="../assets/navlogo.png" alt />
       </a>
       <button
@@ -25,9 +25,6 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/about">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
           </li>
         </ul>
       </div>

@@ -6,7 +6,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-nd-6">
+        <div class="col-md-6">
           <ul>
             <li v-for="project in projectData" v-bind:key="project.id">
               <div class="card" v-if="project.Category == 'Construction'">
@@ -45,8 +45,8 @@
                   <option value="Active">Active</option>
                   <option value="Inactive">Inactive</option>
                 </select>
-                <!-- <input v-model="projectData.Value" type="text" name="status" /> -->
               </form>
+
               <button v-on:click="addProject" class="btn btn-dark add">Add Project</button>
             </div>
           </div>
@@ -54,6 +54,7 @@
           <div class="form-group">
             <button v-on:click="deleteProject" class="btn btn-danger delete">Delete Project</button>
           </div>
+          
         </div>
       </div>
 
