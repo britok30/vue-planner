@@ -1,9 +1,10 @@
 <template>
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-dark">
-      <a class="navbar-brand" href="/">
+    
+      <router-link class="nav-brand" to="/">
         <img class="nav-img" src="../assets/navlogo.png" alt />
-      </a>
+      </router-link>
       <button
         class="navbar-toggler"
         type="button"
@@ -18,10 +19,11 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="/">
+       
+            <router-link class="nav-link" to="/">
               Home
               <span class="sr-only">(current)</span>
-            </a>
+            </router-link>
           </li>
           <li class="nav-item">
             <!-- <a class="nav-link" href="/about">About</a> -->
