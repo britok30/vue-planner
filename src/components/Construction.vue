@@ -197,7 +197,7 @@ a {
 }
 
 .form-container {
-  width: 600px;
+  width: 500px;
   margin: auto;
   background: linear-gradient(rgba(0, 0, 0, 0.479), rgba(0, 0, 0, 0.521)),
     url("../assets/form.jpg") no-repeat center center/cover;

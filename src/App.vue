@@ -39,7 +39,7 @@ html {
 body {
   font-family: "Lato" sans-serif !important;
   font-weight: 100;
-  background: linear-gradient(rgba(0, 0, 0, 0.349), rgba(0, 0, 0, 0.342)),
+  background: linear-gradient(rgba(0, 0, 0, 0.514), rgba(0, 0, 0, 0.541)),
     url("./assets/hero.jpg") no-repeat center center/cover fixed;
   height: 100%;
   color: $white-text;
