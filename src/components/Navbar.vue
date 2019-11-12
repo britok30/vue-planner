@@ -24,7 +24,8 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/about">About</a>
+            <!-- <a class="nav-link" href="/about">About</a> -->
+            <router-link class="nav-link" to="/about">About</router-link>
           </li>
         </ul>
       </div>
@@ -50,5 +51,4 @@ a {
     border: none;
   }
 }
-
 </style>
