@@ -36,6 +36,10 @@ html {
   font-size: 62.5%;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   font-family: "Lato" sans-serif !important;
   font-weight: 100;

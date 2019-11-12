@@ -68,11 +68,11 @@ export default {
   height: 30vh;
 
   .main-heading {
-    font-weight: 300;
+    font-weight: 100;
     text-align: center;
-    font-size: 7rem;
+    font-size: 8rem;
     padding-top: 2rem;
-    color: rgb(70, 123, 209);
+    color: #fff;
   }
 
   .btn {
