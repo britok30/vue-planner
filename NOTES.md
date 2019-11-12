@@ -21,4 +21,10 @@ First and foremost, I want to thank the Carroll Bradford team for allowing me to
 
 7. Made the Search Component with ease and styled it. On to the fun part: the data.
 
-8. Here with the data it was a bit tricky because I had to structure the JSON a couple of times but finally decided on the final look. Used Axios to fetch the data and used the try catch way to fetch my data and catch and potential errors. I used the "v-for" directive to iterate over all the projects and made sure to use the Bootstrap Card component to list out all the projects. Great! Now that all my projects are listed, I wasnted pleased with the look. I figured having a router would help out and so I de
+8. Here with the data it was a bit tricky because I had to structure the JSON a couple of times but finally decided on the final look. Used Axios to fetch the data and used the try catch way to fetch my data and catch and potential errors. I used the "v-for" directive to iterate over all the projects and made sure to use the Bootstrap Card component to list out all the projects. Great! Now that all my projects are listed, I wasnt pleased with the look. I figured having a router would help out and so I decided to implement that as well. Seperating the two components. 
+
+9. Started putting in the logic for the search in order to redirect the user to the appropriate project type. 
+
+10. Started to create the add form to add a project (using a method) and also a delete button to delete the last project. 
+
+11. Implemented the styling using SASS and was able to make it look clean and professionally. I wanted this to look very pleasing to the user. 
