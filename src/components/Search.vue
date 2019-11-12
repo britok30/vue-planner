@@ -65,7 +65,7 @@ export default {
   border: 1px solid #fff;
   background-color: rgba(82, 79, 79, 0.384);
   border-radius: 5px;
-  height: 30vh;
+  height: 35vh;
 
   .main-heading {
     font-weight: 100;
